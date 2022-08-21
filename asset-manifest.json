@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/flickr-photos-by-username/static/css/main.9efbbd32.css",
-    "main.js": "/flickr-photos-by-username/static/js/main.3eb41223.js",
+    "main.css": "/flickr-photos-by-username/static/css/main.eb31f97a.css",
+    "main.js": "/flickr-photos-by-username/static/js/main.fd4f7348.js",
     "static/js/787.3d7a5297.chunk.js": "/flickr-photos-by-username/static/js/787.3d7a5297.chunk.js",
     "index.html": "/flickr-photos-by-username/index.html",
-    "main.9efbbd32.css.map": "/flickr-photos-by-username/static/css/main.9efbbd32.css.map",
-    "main.3eb41223.js.map": "/flickr-photos-by-username/static/js/main.3eb41223.js.map",
+    "main.eb31f97a.css.map": "/flickr-photos-by-username/static/css/main.eb31f97a.css.map",
+    "main.fd4f7348.js.map": "/flickr-photos-by-username/static/js/main.fd4f7348.js.map",
     "787.3d7a5297.chunk.js.map": "/flickr-photos-by-username/static/js/787.3d7a5297.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9efbbd32.css",
-    "static/js/main.3eb41223.js"
+    "static/css/main.eb31f97a.css",
+    "static/js/main.fd4f7348.js"
   ]
 }
